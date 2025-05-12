@@ -58,19 +58,19 @@
 		// both right thumb keys
 		combo_accent {
 			timeout-ms = <200>;
-			key-positions = <32 33>;
+			key-positions = <36 37>;
 			bindings = <&mo ACCENT>;
 		};
 		// internal-left & external-right thumb keys
 		combo_sym2 {
 			timeout-ms = <200>;
-			key-positions = <31 33>;
+			key-positions = <34 37>;
 			bindings = <&mo SYM2>;
 		};
 		// both left thumb keys
 		combo_settings {
 			timeout-ms = <200>;
-			key-positions = <30 31>;
+			key-positions = <34 35>;
 			bindings = <&mo SETTINGS>;
 		};
 		// left index & middle fingers (home-row)
